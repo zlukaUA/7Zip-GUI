@@ -5,8 +5,12 @@ Bu program, Windows tarafındaki 7zFM'in debian tabanlı linux'lar için alterna
 
 Kullanımı kolaydır.
 
+This program alternative to 7zFM for linux systems. 
+
+Update: 1.0.2 (some issues fixed)
+
 Language: TR/UK
 
 This program is a Debian-based Linux alternative to 7zFM on Windows. It's easy to use.
 
-<img width="602" height="890" alt="Ekran görüntüsü_2025-07-22_00-38-54" src="https://github.com/user-attachments/assets/73f23d46-5953-4358-8c0a-6c9c42582a0b" />
+<img width="610" height="694" alt="Ekran görüntüsü_2025-10-02_23-14-34" src="https://github.com/user-attachments/assets/0d8b6c47-1000-4981-8e41-915be39d273b" />
